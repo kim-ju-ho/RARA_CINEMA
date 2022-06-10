@@ -1,0 +1,277 @@
+#brdiv{
+    height: 40px;
+}
+#body_section_total div {
+    border: 1px solid #7e59c2;
+    box-sizing: border-box;
+}
+
+
+#wrapper {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border: 0;
+}
+
+#wrapper>div {
+    width: 100%;
+    border: 0;
+}
+
+
+#main {
+    height: 50%;
+    background: #9277c4;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border: 0;
+}
+
+#main_logo {
+    width: 1000px;
+    margin: auto;
+    height: 100px;
+    border: 0;
+}
+
+#logo {
+    position: relative;
+    top: 10px;
+    border: 0;
+
+}
+
+#body_section {
+    width: 1000px;
+    border: 0;
+}
+
+#body_section {
+    height: 1300px;
+    margin: auto;
+    border: 0;
+
+}
+#manager_menu {
+    width: 20%;
+    float: left;
+    height: 100%;
+    font-size: 10px;
+    text-align: center;
+    background:  #dacbf5;
+    border: none;
+}
+
+/*menu_accordion*/
+input[id*="answer"] {
+    display: none;
+}
+
+input[id*="answer"]+label {
+    display: block;
+    padding: 20px;
+    border: 1px solid black;
+    border-bottom: 0;
+    color: #fff;
+    font-weight: 900;
+    background: #9277c4;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 120px;
+}
+
+input[id*="answer"]+label+div {
+    max-height: 0;
+    transition: all .35s;
+    overflow: hidden;
+    background: #dacbf5;
+    font-size: 11px;
+}
+
+input[id*="answer"]+label+div a {
+    display: inline-block;
+    padding: 15px;
+}
+input[id*="answer"]+label a{
+    text-decoration: none;
+    color: white;
+}
+input[id*="answer"]+label a{
+    text-decoration: none;
+    color: white;
+}
+
+input[id*="answer"]:checked+label+div {
+    max-height: 100px;
+}
+#acc_a >a{
+    text-decoration: none;
+    color: #824fe1;
+    font-size: 15px;
+
+}
+
+#content_section {
+    width: 80%;
+    float: left;
+    height: 100%;
+    border: 0;
+}
+
+#movie_list,
+#movie_rectification {
+    height: 50%;
+    padding: 10px;
+    border: 1px solid white;
+}
+#movie_list_title {
+    height: 6%;
+    border-left: 0;
+    border-right: 0;
+
+    
+}
+
+#movie_list_total {
+    height: 94%;
+    overflow-y: scroll;
+    border-left: 0;
+    border-right: 0;
+}
+
+#movie_rectification_title {
+    height: 6%;
+    border-left: 0;
+    border-right: 0;
+}
+
+#movie_rectification_enroll {
+    height: 94%;
+    border-right: 0;
+    border-left: 0;
+}
+
+#list_title {
+    position: relative;
+    bottom: 13px;
+    left: 80px;
+}
+
+#rectification_title {
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+}
+
+#movie_list_A,
+#movie_list_B,
+#movie_list_C,
+#movie_list_D {
+    width: 100%;
+    height: 30%;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+
+}
+
+#movie_list_A>.img_section,
+#movie_list_B>.img_section,
+#movie_list_C>.img_section,
+#movie_list_D>.img_section {
+    width: 100px;
+    height: 130px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    float: left;
+    
+}
+
+#movie_content {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    width: 450px;
+    height: 130px;
+    float: left;
+    
+
+}
+
+.list_btn {
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+
+#movie_poster_section {
+    width: 40%;
+    height: 100%;
+    float: left;
+    border: 0;
+    
+}
+
+#movie_explain {
+    width: 60%;
+    height: 100%;
+    float: left;
+    border: 0;
+    
+}
+
+#movie_poster {
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 240px;
+    height: 350px;
+}
+
+#file_find {
+    position: relative;
+    top: 40px;
+    left: 30px;
+
+}
+
+#explain {
+    font-size: large;
+    line-height: 45px;
+    position: relative;
+    top: 20px;
+}
+
+#submit_btn {
+    position: relative;
+    float: right;
+    top: 15px;
+    right: 30px;
+    font-size: 23px;
+}
+
+#footer {
+    height: 100px;
+    text-align: center;
+    background: #9277c4;
+    ;
+}
+
+#footer_content {
+    position: relative;
+    top: 35px;
+    border: white;
+    font-size: 12px;
+
+}
+
+#footer_content a,
+p {
+    text-decoration: none;
+    padding: 13px;
+    font-size: 12px;
+    color: #f1f1f1;
+    position: relative;
+    bottom: 15px;
+}

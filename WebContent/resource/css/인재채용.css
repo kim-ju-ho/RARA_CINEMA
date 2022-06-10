@@ -1,0 +1,18 @@
+
+div{ border: 1px solid black;  margin: auto;}
+.area1{ width: 1000px; height: 600px; }
+
+#area2{margin: auto; text-align: center;}
+#area{ margin: auto; text-align: left; }
+#area3{width: 200px; height: 200; }
+
+#logo{ width: 220px; height: 80px; }
+#logo3{ margin: auto; text-align: center; border: 0;}
+
+#area { width: 1000px;}
+
+#contents{ width: 1000px;  border: 0;}
+
+#p1{margin-bottom: 300px;}
+div p{ font-size : 15px; }
+

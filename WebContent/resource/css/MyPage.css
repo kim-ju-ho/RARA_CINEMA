@@ -1,0 +1,229 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+#mypage {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
+
+#mypage li {
+    border-bottom: 1px solid #cccccc;
+    width: 200px;
+}
+
+#mypage li:first-child {
+    border-top: 1px solid #cccccc;
+}
+
+
+#mypage li > a {
+    display: block;
+    padding: 10px 15px;
+    width: auto;
+    text-decoration: none;
+    color: #222;
+    font: 14px;
+}
+
+#mypage li > a:hover {
+    /* background-color: #505984; */
+    color: #505984;
+}
+
+.all{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.section{
+    width: 200px;
+    float: left;
+}
+
+.section div{
+    background: #505984;
+    border-bottom-right-radius : 8px;
+    border-top-right-radius : 8px;
+}
+
+.section p{
+    font-size: 24px;
+    margin: auto;
+    color: #f4f4f4;
+
+}
+
+.div1{
+    width: 780px;
+    float: left;
+    margin-left: 20px;
+}
+.div1-2{
+    height: 600px;
+}
+.div2,.div4,.div3{
+    float: left;
+    width: 50%;
+}
+
+.div2{
+    height: 100%;
+}
+.div4,.div3{
+    height: 50%;
+}
+
+    /* 내정보 */
+#myinfo {
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+
+}
+
+#tag,
+#value {
+    width: 50%;
+    height: 230px;
+    float: left;
+
+}
+
+/* 이름, 생년월일 등등 써있는 자리 */
+#tag {
+text-align: right;
+padding-right: 10px;
+line-height: 2;
+}
+
+/* 그에대한 내용들 들어올 자리 */
+#value {
+    padding-left: 10px;
+    line-height: 2;
+    border: #a9a8a6;
+}
+
+/* 회원 탈퇴버튼 */
+#changebtn {
+    float: right;
+    margin-right: 5%;
+    background: #505984;
+    color: white;
+    border: 3px solid #505984;
+   
+     margin-top: 15px;
+}
+hr{
+    background: #505984 ;
+height: 1px;
+}
+.title{
+    font-size: 20px;
+}
+
+#movieHistotybtn,#myReviewbtn,#myQnAbtn{
+    float: right;
+}
+
+
+
+input,
+select {
+    border-radius: 0px;
+    border: 1px solid lightgray;
+}
+
+div {
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+}
+
+#wrapper {
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+
+}
+
+
+
+#row {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+
+#in,#in2 {
+    background: #505984;
+    color: white;
+    border: 3px solid #505984;
+}
+
+#back,
+#dhks {
+    margin-left: 0px;
+    margin-top: 1px;
+    width: 100px;
+    height: 55px;
+    background: #505984;
+    border: none;
+    color: white;
+    font-size: 14px;
+    width: 7000;
+    border: 1px dashed outset #505984;
+}
+
+
+#irow,#prow,#pwrow,#pwrow2,#erow,#nrow,#qrow,#yrow,#qrow2 {
+    width: 150px;
+    text-align: left;
+    height: 50px;
+    background: lightgray;
+    border: 1px solid lightgray;
+    table-layout: fixed;
+}
+
+#icolumn,#pcolumn,#pwcolumn,#pwcolumn2,#ecolumn,#ncolumn,#qcolumn,#ycolumn,#qcolumn2 {
+    width: 550px;
+    text-align: left;
+    height: 50px;
+    margin-left: 10px;
+    border: 1px solid lightgray;
+    padding-left: 5%;
+
+}
+
+#maintable {
+    text-align: center;
+    /* border: 1px solid rgb(221, 160, 230); */
+    border: none;
+    width: 80%;
+    margin: auto;
+
+}
+
+#ex {
+    font-size: 9pt;
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: -4px;
+
+
+}
+
+#userZip, #address_d{
+border:none;border-right:0px; border-top:0px; boder-left:0px; boder-bottom:0px;
+
+}
+
+#userAddress{
+border:none;border-right:0px; border-top:0px; boder-left:0px; boder-bottom:0px;
+width:200px
+}

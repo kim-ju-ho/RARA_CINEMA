@@ -1,0 +1,39 @@
+    /* 사이드바 */
+    #asidecontent {
+        width: 80px;
+        height: 300px;
+        box-sizing: border-box;
+        position: fixed;
+        float: right;
+        padding: 0%;
+        border-radius: 8px;
+        box-shadow: 2px 2px 3px;
+ 
+        top: 30%;
+        left: 4%;
+    }
+
+    /* 사이드바 안에 버튼들 */
+
+    #side{
+        width: 80px;
+        height: 27%;
+        margin-bottom: 10px;
+       
+    } 
+    #side a{
+      display: block;
+      width: 100%;
+      height: 100%;
+    } 
+
+    #asidecontent div a{
+        font-size: 15px;
+        color: #e2e2e2;
+        text-decoration: none;
+        text-align: center;
+        width: 100%;
+        position: absolute;
+        height: 80px;
+
+    }

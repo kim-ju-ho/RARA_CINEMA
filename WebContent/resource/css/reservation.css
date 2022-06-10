@@ -1,0 +1,654 @@
+ /*모달 CSS*/
+    /* The Modal (background) */
+    .reservation_modal {
+        display: none;
+        /* 기본이 안보이게 */
+        position: fixed;
+        /* 움직이지 않게 */
+        z-index: 1;
+        /* 가장 맨위에 보이게 */
+        left: 0;
+        top: 0;
+        width: 100%;
+        /* Full width */
+        height: 100%;
+        /* Full height */
+        overflow: auto;
+        /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/ opacity */
+      }
+  
+      /* Modal Content/Box */
+      .reservation_modal_content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        /* 15% from the top and centered */
+        padding: 20px;
+        border: 1px solid #888;
+        width: 1100px;
+        height: 700px;
+        /* Could be more or less, depending on screen size */
+      }
+  
+      /* The Close Button */
+      .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+      }
+  
+
+
+  
+}
+#viewall {
+  float: left;
+  width: 100%;
+  height: 30px;
+}
+
+#rs_button:hover,
+#ms_btn1:hover,
+#ms_btn2:hover,
+#viewall:hover,
+#searchbtn:hover,
+#backbtn:hover,
+#paybtn:hover,
+#payBtn:hover{
+  color: #505984;
+  background: white;
+  border: 2px solid #505984 ;
+  font-weight: bolder;
+}
+
+#rs_button:active,
+#ms_btn1:active,
+#ms_btn2:active,
+#viewall:active,
+#searchbtn:active,
+{ 
+  color:#373e64 ;
+}
+
+
+
+#searchtheater {
+  width: 90px;
+}
+
+#searchbtn {
+  height: 30px;
+  width: 55px;
+}
+
+#ts_2_1,
+#tss_2_1 {
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+#ds_2_1 {
+  background:#f4f4f4;
+  color: #505984;
+  height: 100%;
+  padding-top: 30px;
+  font-size: 25px;
+  line-height: 100%;
+  border-bottom: 1px dashed #505984;
+}
+
+#ds_3_day {
+  padding-top: 10px;
+  height: 100%;
+  border: none;
+  font-size: 18px;
+}
+
+<!-- 용 네비-- > 
+
+.header_wrap {
+  background: black;
+}
+
+
+
+.movietime {
+    border-bottom: 1px solid black;
+}
+
+.myMovie {
+    margin-top: 10px;
+    background:#a9a8a6;
+    padding: 10px;
+}
+
+input,select {
+        border-radius: 0px;
+        /* border: 2px solid #a9a8a6  */;
+        
+    }
+
+  input[type='radio'] {
+        opacity: 0;
+        }
+       
+        input[type='radio']:checked {
+        opacity: 100%;
+        appearance: none;
+        width: 0.9rem;
+        height: 0.9rem;
+        border-radius: 100%;
+        margin-right: 0.1rem;
+        background-color: #505984;
+        border: 2px solid white;
+        }
+
+
+
+    .menu{
+        width: 80%;
+        height: 40px;
+        cursor: pointer;
+        
+    }
+	.close:hover,
+      .close:focus {
+
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+      }
+  
+      /*모달 CSS 끝 */
+  
+      /* 좌석 CSS 시작 */
+      table {
+        background: lightgray;
+        text-align: center;
+        width: 675px;
+        margin: 10px;
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+      }
+  
+      button {
+       
+        border: 2px solid white;
+        text-align: center;
+        font-weight: bold;
+        font-size: 10pt;
+        width: 45px;
+        height: 45px;
+      }
+  
+      #left,
+      #right {
+        height: 650px;
+        box-sizing: border-box;
+        display: block;
+        float: left;
+        border: none;
+        /* border: 1px solid #a9a8a6 ; */
+      }
+  
+      #left {
+        width: 700px;
+      }
+  
+      #right {
+        width: 260px;
+      }
+  
+      #screen,
+      #seat {
+        box-sizing: border-box;
+      }
+  
+      #screen {
+        background: lightgray;
+        height: 30px;
+        width: 675px;
+        text-align: center;
+        margin: 10px;
+      }
+  
+      .info {
+        background: lightgray;
+        height: 468px;
+        margin-top: 10px;
+  
+      }
+  
+      .price {
+        background: white;
+      }
+  
+      #payBtn {
+        height: 80px;
+        width: 250px;
+        
+      }
+  
+      /* 좌석 CSS 끝 */
+  
+      /* 결제 CSS 시작 */
+      #leftPay,
+      #rightPay {
+        height: 550px;
+        box-sizing: border-box;
+        display: block;
+        float: left;
+        
+      }
+  
+      #leftPay {
+        width: 700px;
+      }
+  
+      #payselectdiv {
+        padding-top: 100px;
+        padding-left: 40px;
+      }
+  
+      #rightPay {
+        width: 260px;
+      }
+  
+      .infoPay {
+        background: lightgray;
+        height: 380px;
+      }
+  
+      .infoPay label {
+        margin-top: 3px;
+      }
+  
+      .pricePay {
+        font-size: x-large;
+      }
+  
+      #payDiv h3 {
+        margin: 0px;
+        margin-left: 10px;
+      }
+  
+      #backbtn,
+      #paybtn
+      {
+        width: 100px;
+        padding: 10px;
+        margin-left: 15px;
+        margin-top: 5px;
+        color: white;
+        background : #505984;
+      }
+  
+      #payBtn {
+        color: white;
+        background : #505984;
+  
+      }
+     
+      /* 결제 CSS 끝*/
+  
+  
+       input:disabled ,label:disabled,
+       button:disabled
+       {
+         background:rgb(214, 214, 214);
+         
+  
+       } 
+  
+       input::placeholder{
+       color:#505984;
+      font-style: italic;
+      font-size: 12px;
+      }
+  
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0%;
+        padding: 0%;
+        font-family: "Noto Sans KR", sans-serif;
+        font-size: 14px;
+  
+      }
+  
+      a {
+        text-decoration: none;
+      }
+  
+      #wrapper {
+        height: 900px;
+        width: 1000px;
+        margin: auto;
+      }
+      div {
+        /* border: 1px solid lightgrey; */
+        box-sizing: border-box;
+        text-align: center;
+        margin: auto;
+      
+      }
+      #wrapper > div {
+        width: 100%;
+      }
+      
+  
+      .bin {
+          height: 260px;
+      }
+  
+         
+      li { list-style: none; }
+  
+      .bx-wrapper .bx-caption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      background: #666;
+      background: rgba(255, 255, 255, 0);
+      width: 100%;
+      }
+  
+  
+      /* 아라꺼 */
+      #content {
+        height: 600px;
+      }
+      #content > div {
+        height: 100%;
+        float: left;
+      }
+      #movieSelect {
+        width: 25%;
+       
+      }
+      #ms_1 {
+        height: 67%;
+      }
+      #ms_2 {
+        height: 20%;
+      }
+      #theaterSelect {
+        width: 20%;
+        background: #f4f4f4;
+      }
+      #ts_2 {
+        height: 10%;
+      }
+      #ts_3 {
+        height: 85%;
+      }
+      #daySelect {
+        width: 15%;
+      }
+      #ds_2 {
+        height: 20%;
+      }
+      #ds_3 {
+        height: 75%;
+      }
+      #timeSelect {
+        width: 20%;
+        background: #f4f4f4;
+      }
+      #tss_2 {
+        height: 55%;
+      }
+      #tss_3 {
+        height: 40%;
+      }
+      #information {
+        width: 20%;
+      }
+      #if_2 {
+        height: 45%;
+      }
+      #if_3 {
+        height: 40%;
+        text-align: left;
+        padding-top: 20px;
+        
+      }
+      #if_4 {
+        height: 10%;
+      }
+      #ms,
+      #ts_1,
+      #ds_1,
+      #if_1,
+      #tss_1 {
+        height: 5%;
+        background: #7090cb;
+        color: white;
+        text-align: center;
+        font-size: 14px;
+        line-height: 30px;
+        border-right: 1px solid white;
+        border-left: 1px solid white;
+      }
+      #rs_button {
+        width: 100%;
+        height: 100%;
+        background-color:#7090cb;
+        color: white;
+        border : none;
+      }
+  
+      #ms_btn1,
+      #ms_btn2 {
+        color: white;
+        background : #505984;
+        height: 50px;
+        width: 80px;
+        border: none;
+      }
+  
+      #ms_btn1 {
+        margin-left: 38px;
+        margin-right: 8px;
+      }
+  
+      #ms_1_1,
+      #ms_1_2,
+      #ms_1_3 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: left;
+        magin-left : 10px;
+      }
+      
+      
+      #ms_2_title{
+          font-size: 14px;
+      }
+     /*  #fieldset_mv {
+        background: #f4f4f4;
+        
+        display: block;
+        padding-top: 20px;
+        height: 260px;
+       
+        text-align: left;
+  
+      } */
+  
+      
+      #ms_2_title,
+      #ms_2_adult,
+      #ms_2_child {
+        padding-top: 6px;
+        padding-bottom: 6px;
+    
+      }
+  
+      #ms_2_child{
+        border-top : 1px solid #7090cb;
+      }
+      #ms_2_title,
+      #searchbtn,
+      #viewall {
+        background: #7090cb;
+        color: white;
+        border: 2px solid white;
+        
+     
+        
+      }
+      #viewall {
+        float: left;
+        width: 100%;
+        height: 30px;
+      }
+  
+      #rs_button:hover,
+      #ms_btn1:hover,
+      #ms_btn2:hover,
+      #viewall:hover,
+      #searchbtn:hover,
+      #backbtn:hover,
+      #paybtn:hover,
+      #payBtn:hover{
+        color: #505984;
+        background: white;
+        border: 2px solid #505984 ;
+        font-weight: bolder;
+      }
+  
+      #rs_button:active,
+      #ms_btn1:active,
+      #ms_btn2:active,
+      #viewall:active,
+      #searchbtn:active
+    { 
+        color:#373e64 ;
+      }
+  
+     
+  
+      #searchtheater {
+        width: 90px;
+      }
+  
+      #searchbtn {
+        height: 30px;
+        width: 55px;
+      }
+  
+      #ts_2_1,
+      #tss_2_1 {
+        padding-top: 13px;
+        padding-bottom: 13px;
+      }
+  
+      #ds_2_1 {
+        background:#f4f4f4;
+        color: #505984;
+        height: 100%;
+        padding-top: 30px;
+        font-size: 25px;
+        line-height: 100%;
+        border-bottom: 1px dashed #505984;
+      }
+  
+      #ds_3_day {
+        padding-top: 10px;
+       
+        height: 100%;
+        border: none;
+        font-size: 18px;
+      }
+  
+      <!-- 용 네비-- > 
+      
+      .header_wrap {
+        background: black;
+      }
+  
+      
+  
+      .movietime {
+          border-bottom: 1px solid black;
+      }
+  
+      .myMovie {
+          margin-top: 10px;
+          background:#a9a8a6;
+          padding: 10px;
+      }
+  
+      input,select {
+              border-radius: 0px;
+              border: 2px solid #a9a8a6 ;
+              
+          }
+  
+          input[type='radio'],
+          input[type='radio']:checked {
+            appearance: none;
+            width: 0.9rem;
+            height: 0.9rem;
+            border-radius: 100%;
+            margin-right: 0.1rem;
+          }
+  
+          input[type='radio'] {
+            background-color:white;
+            border: 2px solid #7090cb;
+          }
+          input[type='radio']:checked {
+            background-color: #505984;
+            border: 2px solid white;
+            
+           
+          }
+  
+  
+          .menu{
+              width: 80%;
+              height: 40px;
+              cursor: pointer;
+              color: black;
+              margin: auto;
+  
+          }
+          .contents {
+              width: 80%;
+              height: 100px;
+              background: rgb(231, 231, 231);
+              text-align : left;
+              display : none;
+              margin : auto; 
+              margin-bottom: 20px;
+          }
+      
+       #ms_1_3 {
+         display: none;
+       }  
+  
+       button:focus,
+       input:focus
+       {
+         outline:none;
+  
+       }
+  
+       input[type='button']{
+         cursor: pointer;
+       }
+  
+      #searchResult {
+        border: 1px solid #a9a8a6;
+        margin: 10px;
+        font-size: 12px;
+        background: white;
+      }
+      

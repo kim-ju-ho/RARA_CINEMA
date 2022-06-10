@@ -1,0 +1,3584 @@
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+		
+		
+			
+							
+			
+				
+				
+					
+					
+						
+					
+					
+				
+				
+						
+		
+		
+	
+	
+	
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="imagetoolbar" content="no">
+<title>마크 멘차카 : 네이버 영화</title>
+
+	
+	
+	
+	
+	
+		
+		
+	
+
+
+
+<meta property="me2:image" content="https://ssl.pstatic.net/imgmovie/today/naverme/naverme_profile.jpg"/>
+<meta property="me2:post_tag" content="네이버영화 마크 멘차카"/>
+<meta property="me2:category1" content="네이버영화"/>
+<meta property="me2:category2" content="마크 멘차카"/>
+
+
+
+	
+	
+	
+		<meta property="og:title" content="마크 멘차카"/>
+	
+
+
+<meta property="og:type" content="article"/>
+
+<meta property="og:url" content="https://movie.naver.com/movie/bi/pi/basic.nhn?code=80628"/>
+
+
+	
+		<meta property="og:image" content="https://ssl.pstatic.net/imgmovie/mdi/pi/000000806/PM80628_101655_000.png"/>
+	
+	
+
+
+	
+	<meta property="og:description" content="네이버 영화 : 영화인 정보"/>
+
+
+
+<meta property="og:article:thumbnailUrl" content="https://ssl.pstatic.net/imgmovie/today/naverme/naverme_profile.jpg"/>
+<meta property="og:article:author" content="네이버 영화"/>
+<meta property="og:article:author:url" content="https://movie.naver.com/"/>
+
+
+
+
+	
+	
+	
+	
+		<link rel="shortcut icon" href="https://ssl.pstatic.net/static/m/movie/icons/naver_movie_favicon.ico" type="image/x-icon">
+			
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/deploy/movie.all.css?20200806170632" />
+
+
+
+<script type="text/javascript" src="/js/deploy/movie.all.js?20200806170632"></script>
+
+
+
+</head>
+<body >
+<div id="wrap" class="basic">
+
+	<!-- GNB -->
+	
+
+
+
+<script type="text/javascript">
+function delayed_submit(object) {
+	if (navigator.userAgent.indexOf('MSIE') == -1) {
+		var b = c = new Date();
+      	while ((b.getTime() - c.getTime()) < 100) {
+			b = new Date();
+      	}
+	} 
+}
+</script>
+
+<script type="text/javascript">
+	var gnb_service = "movie";
+	var gnb_logout = "http://movie.naver.com/movie/bi/pi/basic.nhn%3Fcode%3D80628";
+	var gnb_template = "gnb_utf8";
+	var gnb_brightness=3;
+	var gnb_response = true;
+	
+	jindo.$Fn(function(){
+		getGNB();
+	}).attach(window, "load");
+	
+	jindo.$Fn(function(oEvent){ var welSource = jindo.$Element(oEvent.element);
+			if (!welSource.isChildOf(jindo.$Element("gnb"))) {
+				gnbAllLayerClose();
+			}
+	}).attach(document, 'click');
+</script>
+ <!-- skip navigation -->
+<div id="u_skip">
+         <a href="#header" onclick="document.getElementById('header').tabIndex=-1;document.getElementById('header').focus();return false;"><span>메인 메뉴로 바로가기</span></a>
+         <a href="#content" id="gnb_goContent" onclick="document.getElementById('content').tabIndex=-1;document.getElementById('content').focus();return false;"><span>본문으로 바로가기</span></a>
+</div>
+<!-- //skip navigation -->
+<div class="gnb_container">
+	<div class="gnb_content">
+		<div class="gnb_box">
+			<div class="gnb_wrap">
+				<div id="gnb">
+				    <script type="text/javascript" charset="utf-8" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn"></script>
+				</div>
+			</div>
+			<!-- 검색창 -->
+			<form id="jSearchForm" action="/movie/search/result.nhn" method="get" style="margin:0;display:none;">
+				<input type="text" name="query" maxlength="100" title="영화검색" />
+				<input type="hidden" name="section" value="all"/>
+				<input type="hidden" name="ie" value="utf8"/>
+			</form>
+			<fieldset id="jSearchArea" class="srch_area">
+				<legend><span class="blind">영화검색 영역</span></legend>
+				<div class="srch_field_on _view">
+					<span class="ipt_srch">
+						<label for="ipt_tx_srch" id="search_placeholder">영화검색</label>
+						<input type="text" id="ipt_tx_srch" class="ipt_tx_srch" name="query" maxlength="100" accesskey="s" style="ime-mode:active;" autocomplete="off" />
+						<span class="align"></span>
+						<span class="auto_tx"><a href="#" title="자동완성 펼치기"><img src="https://ssl.pstatic.net/static/movie/2012/06/srch_arrow_down.gif" width="7" height="4" title="자동완성 펼치기" alt="자동완성 펼치기" /></a></span>
+					</span>
+					<button type="submit" title="검색" class="btn_srch" onClick="clickcr(this,'GNB.search','','',event); delayed_submit(this);"><span class="blind">검색</span></button>
+					 <!-- 자동 완성 영역임 #autocomplate_template-->
+				</div>
+			</fieldset>
+			<!-- //검색창 -->
+		</div>
+	</div>
+</div>
+
+	<!-- //GNB -->
+
+	<!-- header -->
+	
+
+
+
+
+
+	<div id="header">
+		<a href="#content" title="본문으로 이동" class="blind">본문 바로가기</a>
+		<h1 class="svc_name">
+			<a href="http://www.naver.com/" title="naver로 바로가기" class="ci_logo" id="lnb_gonaver"><img src="https://ssl.pstatic.net/static/movie/2013/07/logo_ci.png" width="62" height="13" alt="NAVER" /></a><!-- N=a:LNB.naver -->
+			<a href="/" title="영화서비스홈으로 바로가기" class="svc_logo"><img src="https://ssl.pstatic.net/static/movie/2012/06/logo_svc.png" width="34" height="19" alt="영화" /></a><!-- N=a:LNB.movie -->
+		</h1>
+		<div id="scrollbar" class="scrollbar scrollbar-noscript">
+			<div class="scrollbar-box">
+				<div class="scrollbar-content">
+                    <div class="in_scroll">
+                        <ul class="navi">
+                        <li>
+                            <a href="/" title="영화홈" class="menu01"><strong>영화홈</strong></a><!-- N=a:LNB.home -->
+                        </li>
+                        <li>
+                            <a href="/movie/running/current.nhn" title="상영작·예정작" class="menu02_on"><strong>상영작·예정작</strong></a><!-- N=a:LNB.movies -->
+                            <ul class="navi_sub" id="navi_movie" style="display:none">
+                            <li><a href="/movie/running/current.nhn" title="현재 상영영화" class="sub2_1"><em>현재 상영영화</em></a><!-- N=a:LNB.now --></li>
+                            <li><a href="/movie/running/premovie.nhn" title="개봉 예정영화" class="sub2_2"><em>개봉 예정영화</em></a><!-- N=a:LNB.soon --></li>
+                            
+                            <li><a href="/movie/running/movieclip.nhn" title="예고편" class="sub2_4"><em>예고편</em></a><!-- N=a:LNB.tailer --></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/movie/sdb/rank/rmovie.nhn" title="영화랭킹" class="menu03"><strong>영화랭킹</strong></a><!-- N=a:LNB.db -->
+                        </li>
+                        <li>
+                            <a href="/movie/bi/mi/reserve.nhn" title="예매" class="menu05"><strong>예매</strong></a><!-- N=a:LNB.ticket -->
+                        </li>
+
+                        <li>
+							<a href="/movie/point/af/list.nhn" title="평점&middot리뷰" class="menu07"><strong>평점&middot리뷰</strong></a><!-- N=a:LNB.comm -->
+                        </li>
+                        <li>
+                            <a href="https://serieson.naver.com/movie/home.nhn" title="다운로드" class="menu08" target="_blank"><strong>다운로드</strong></a><!-- N=a:LNB.download -->
+                        </li>
+						<li class="nav_indi">
+						        <a href="http://tv.naver.com/indiecinema" title="인디극장 UP" target="_blank"><strong>인디극장 UP</strong></a><!-- N=a:LNB.indie -->
+						</li>                        
+                        </ul>
+                        
+	                        <!-- [D] view 모드 전환간 클래스는 _on,_off / 비활성화는 _disabled -->
+	                        <div id="viewmode-option-area" class="lnb_etc">
+								<div class="info_view">
+									<a href="#" class="_info-anchor btn_view_md"><em>보기옵션</em></a>
+									<div class="ly_info_view" id="_viewmode-option-info-layer" style="display:none">
+										<span></span>
+										브라우저의 해상도에 따라 기본 혹은 넓게보기가 가능합니다. 넓게보기는 가로해상도 1872픽셀 이상에서만 동작합니다.
+									</div>
+								</div>
+								<div class="view_mode">
+									<a href="#" title="" class="_basic-btn normal_on"><em>기본보기</em></a>
+                                    <a href="#" title="" class="_wide-btn wide_off"><em>넓게보기</em></a>
+								</div>
+							</div>
+						
+                    </div>
+				</div>
+			</div>
+			<div class="scrollbar-v">
+				<div class="scrollbar-button-up"></div>
+				<div class="scrollbar-track">
+					<div class="scrollbar-thumb"></div>
+				</div>
+				<div class="scrollbar-button-down"></div>
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript">
+	if ("상영작·예정작" == "상영작·예정작"
+			|| "상영작·예정작" == "현재 상영영화"
+			|| "상영작·예정작" == "개봉 예정영화"
+			|| "상영작·예정작" == "TV 방영영화"
+			|| "상영작·예정작" == "예고편") {
+		jindo.$Element("navi_movie").show();
+	}
+	</script>
+	<!-- //header -->
+	
+	<!-- container -->
+	<div id="container">
+			<!-- 상단 영화인 썸네일 리스트 -->
+		<div class="spot">
+			<div class="top_list" id="_TopArea">
+				<div class="people_list">
+					<button type="button" class="_prev-btn thumb_prev"><em>이전</em></button><!-- N=a:rnk.prev -->
+					<h2 class="h_current_mv"><strong class="blind">영화인 검색 순위</strong></h2>
+					<div class="top_poster_area">
+						<ol class="top_thumb_lst">
+						
+							
+								<li class=""  data-title="크리스토퍼 놀란">
+									<a href="./basic.nhn?code=261">
+										
+											<span class="rank_no1"><span class="blind">1위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F25%2F201411101802253101.jpg&type=u77_96&quality=95" width="48" height="60" alt="크리스토퍼 놀란" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="채드윅 보스만">
+									<a href="./basic.nhn?code=218314">
+										
+											<span class="rank_no2"><span class="blind">2위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F96%2F201804131714296541.jpg&type=u77_96&quality=95" width="48" height="60" alt="채드윅 보스만" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="엘리자베스 데비키">
+									<a href="./basic.nhn?code=318463">
+										
+											<span class="rank_no3"><span class="blind">3위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F43%2F201807091552339221.jpg&type=u77_96&quality=95" width="48" height="60" alt="엘리자베스 데비키" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="로버트 패틴슨">
+									<a href="./basic.nhn?code=49023">
+										
+											<span class="rank_no4"><span class="blind">4위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F127%2F201806211546322111.jpg&type=u77_96&quality=95" width="48" height="60" alt="로버트 패틴슨" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="존 데이비드 워싱턴">
+									<a href="./basic.nhn?code=196965">
+										
+											<span class="rank_no5"><span class="blind">5위</span></span>
+										
+										
+										
+											
+											
+												
+												
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgmovie.naver.net%2Fmdi%2Fpi%2F000001969%2FPM196965_172125_000.jpg&type=u77_96&quality=95" width="48" height="60" alt="존 데이비드 워싱턴" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="박정민">
+									<a href="./basic.nhn?code=266169">
+										
+											<span class="rank_no6"><span class="blind">6위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F35%2F202007221607161351.jpg&type=u77_96&quality=95" width="48" height="60" alt="박정민" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="이레">
+									<a href="./basic.nhn?code=334351">
+										
+											<span class="rank_no7"><span class="blind">7위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202008%2F20200804161203431-2051450.jpg&type=u77_96&quality=95" width="48" height="60" alt="이레" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="박소이">
+									<a href="./basic.nhn?code=424124">
+										
+											<span class="rank_no8"><span class="blind">8위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F12%2F201904221216447121.jpg&type=u77_96&quality=95" width="48" height="60" alt="박소이" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="유역비">
+									<a href="./basic.nhn?code=119818">
+										
+											<span class="rank_no9"><span class="blind">9위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F155%2F201304102005417741.jpg&type=u77_96&quality=95" width="48" height="60" alt="유역비" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="황정민">
+									<a href="./basic.nhn?code=11530">
+										
+											<span class="rank_no10"><span class="blind">10위</span></span>
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202003%2F20200316134444946.jpg&type=u77_96&quality=95" width="48" height="60" alt="황정민" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="연상호">
+									<a href="./basic.nhn?code=62900">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202007%2F20200726125800311.jpg&type=u77_96&quality=95" width="48" height="60" alt="연상호" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="마동석">
+									<a href="./basic.nhn?code=43284">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201710%2F2017102414073587.jpg&type=u77_96&quality=95" width="48" height="60" alt="마동석" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class=""  data-title="강동원">
+									<a href="./basic.nhn?code=20539">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F37%2F201604181854386741.jpg&type=u77_96&quality=95" width="48" height="60" alt="강동원" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="애런 존슨">
+									<a href="./basic.nhn?code=12207">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F152%2F201805101613246911.jpg&type=u77_96&quality=95" width="48" height="60" alt="애런 존슨" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="구교환">
+									<a href="./basic.nhn?code=167112">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F44%2F201904091710355751.jpg&type=u77_96&quality=95" width="48" height="60" alt="구교환" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="홍원찬">
+									<a href="./basic.nhn?code=142497">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F62%2F201508171852443641.gif&type=u77_96&quality=95" width="48" height="60" alt="홍원찬" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="최희서">
+									<a href="./basic.nhn?code=158949">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202006%2F20200628152310896.jpg&type=u77_96&quality=95" width="48" height="60" alt="최희서" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="레오나르도 디카프리오">
+									<a href="./basic.nhn?code=922">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F102%2F202001281610302151.jpg&type=u77_96&quality=95" width="48" height="60" alt="레오나르도 디카프리오" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="이병헌">
+									<a href="./basic.nhn?code=1898">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201810%2F201810021644077.jpg&type=u77_96&quality=95" width="48" height="60" alt="이병헌" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="제시카 차스테인">
+									<a href="./basic.nhn?code=144635">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F120%2F201411251505503801.jpg&type=u77_96&quality=95" width="48" height="60" alt="제시카 차스테인" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="배슬기">
+									<a href="./basic.nhn?code=110666">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201609%2F20160913053447969-4782960.jpg&type=u77_96&quality=95" width="48" height="60" alt="배슬기" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="마이클 케인">
+									<a href="./basic.nhn?code=1066">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F138%2F201702161745028211.jpg&type=u77_96&quality=95" width="48" height="60" alt="마이클 케인" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="곽도원">
+									<a href="./basic.nhn?code=48376">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201706%2F20170620162444956.jpg&type=u77_96&quality=95" width="48" height="60" alt="곽도원" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="이정재">
+									<a href="./basic.nhn?code=1915">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F42%2F201812191840306281.jpg&type=u77_96&quality=95" width="48" height="60" alt="이정재" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="샤를리즈 테론">
+									<a href="./basic.nhn?code=233">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F89%2F201712181454075261.jpg&type=u77_96&quality=95" width="48" height="60" alt="샤를리즈 테론" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="나탈리 포트만">
+									<a href="./basic.nhn?code=2078">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F186%2F201701061824369101.jpg&type=u77_96&quality=95" width="48" height="60" alt="나탈리 포트만" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="케네스 브래너">
+									<a href="./basic.nhn?code=862">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F19%2F201703271054071501.jpg&type=u77_96&quality=95" width="48" height="60" alt="케네스 브래너" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="셀레나 고메즈">
+									<a href="./basic.nhn?code=38675">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F70%2F201701171706076341.jpg&type=u77_96&quality=95" width="48" height="60" alt="셀레나 고메즈" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+								<li class="" style="display:none" data-title="왕대륙">
+									<a href="./basic.nhn?code=374663">
+										
+										
+										
+											
+												
+												
+											
+											
+											
+										
+										<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F166%2F201605260158327091.jpg&type=u77_96&quality=95" width="48" height="60" alt="왕대륙" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+									</a><!-- N=a:rnk.pimg -->
+								</li>
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+												
+						</ol>
+					</div>
+					<button type="button" class="_next-btn thumb_next"><em>다음</em></button><!-- N=a:rnk.next -->
+				</div>
+				<div class="open_people_list" style="display:none">
+					<div class="current_open">
+						<div class="open_title_area">
+							<h2 class="h_rank_people"></h2>
+							<a href="/movie/sdb/rank/rpeople.nhn" title="더보기" class="open_more"><em>더보기</em></a><!-- N=a:rnk.more -->
+						</div>
+						<ol class="peple_rank_list">
+						
+							<li >
+								<a href="./basic.nhn?code=261" title="크리스토퍼 놀란">
+									
+										<span class="rank_no1"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F25%2F201411101802253101.jpg&type=u77_96&quality=95" width="77" height=96" alt="크리스토퍼 놀란" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=218314" title="채드윅 보스만">
+									
+										<span class="rank_no2"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F96%2F201804131714296541.jpg&type=u77_96&quality=95" width="77" height=96" alt="채드윅 보스만" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=318463" title="엘리자베스 데비키">
+									
+										<span class="rank_no3"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F43%2F201807091552339221.jpg&type=u77_96&quality=95" width="77" height=96" alt="엘리자베스 데비키" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=49023" title="로버트 패틴슨">
+									
+										<span class="rank_no4"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F127%2F201806211546322111.jpg&type=u77_96&quality=95" width="77" height=96" alt="로버트 패틴슨" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=196965" title="존 데이비드 워싱턴">
+									
+										<span class="rank_no5"></span>
+									
+									
+									
+										
+										
+											
+											
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgmovie.naver.net%2Fmdi%2Fpi%2F000001969%2FPM196965_172125_000.jpg&type=u77_96&quality=95" width="77" height=96" alt="존 데이비드 워싱턴" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=266169" title="박정민">
+									
+										<span class="rank_no6"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F35%2F202007221607161351.jpg&type=u77_96&quality=95" width="77" height=96" alt="박정민" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=334351" title="이레">
+									
+										<span class="rank_no7"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202008%2F20200804161203431-2051450.jpg&type=u77_96&quality=95" width="77" height=96" alt="이레" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=424124" title="박소이">
+									
+										<span class="rank_no8"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F12%2F201904221216447121.jpg&type=u77_96&quality=95" width="77" height=96" alt="박소이" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=119818" title="유역비">
+									
+										<span class="rank_no9"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F155%2F201304102005417741.jpg&type=u77_96&quality=95" width="77" height=96" alt="유역비" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=11530" title="황정민">
+									
+										<span class="rank_no10"></span>
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202003%2F20200316134444946.jpg&type=u77_96&quality=95" width="77" height=96" alt="황정민" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=62900" title="연상호">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202007%2F20200726125800311.jpg&type=u77_96&quality=95" width="77" height=96" alt="연상호" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=43284" title="마동석">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201710%2F2017102414073587.jpg&type=u77_96&quality=95" width="77" height=96" alt="마동석" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=20539" title="강동원">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F37%2F201604181854386741.jpg&type=u77_96&quality=95" width="77" height=96" alt="강동원" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=12207" title="애런 존슨">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F152%2F201805101613246911.jpg&type=u77_96&quality=95" width="77" height=96" alt="애런 존슨" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=167112" title="구교환">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F44%2F201904091710355751.jpg&type=u77_96&quality=95" width="77" height=96" alt="구교환" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=142497" title="홍원찬">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F62%2F201508171852443641.gif&type=u77_96&quality=95" width="77" height=96" alt="홍원찬" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=158949" title="최희서">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F202006%2F20200628152310896.jpg&type=u77_96&quality=95" width="77" height=96" alt="최희서" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=922" title="레오나르도 디카프리오">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F102%2F202001281610302151.jpg&type=u77_96&quality=95" width="77" height=96" alt="레오나르도 디카프리오" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=1898" title="이병헌">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201810%2F201810021644077.jpg&type=u77_96&quality=95" width="77" height=96" alt="이병헌" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=144635" title="제시카 차스테인">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F120%2F201411251505503801.jpg&type=u77_96&quality=95" width="77" height=96" alt="제시카 차스테인" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=110666" title="배슬기">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201609%2F20160913053447969-4782960.jpg&type=u77_96&quality=95" width="77" height=96" alt="배슬기" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=1066" title="마이클 케인">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F138%2F201702161745028211.jpg&type=u77_96&quality=95" width="77" height=96" alt="마이클 케인" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=48376" title="곽도원">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201706%2F20170620162444956.jpg&type=u77_96&quality=95" width="77" height=96" alt="곽도원" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=1915" title="이정재">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F42%2F201812191840306281.jpg&type=u77_96&quality=95" width="77" height=96" alt="이정재" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=233" title="샤를리즈 테론">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F89%2F201712181454075261.jpg&type=u77_96&quality=95" width="77" height=96" alt="샤를리즈 테론" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=2078" title="나탈리 포트만">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F186%2F201701061824369101.jpg&type=u77_96&quality=95" width="77" height=96" alt="나탈리 포트만" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=862" title="케네스 브래너">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F19%2F201703271054071501.jpg&type=u77_96&quality=95" width="77" height=96" alt="케네스 브래너" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=38675" title="셀레나 고메즈">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F70%2F201701171706076341.jpg&type=u77_96&quality=95" width="77" height=96" alt="셀레나 고메즈" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=374663" title="왕대륙">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F166%2F201605260158327091.jpg&type=u77_96&quality=95" width="77" height=96" alt="왕대륙" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=1917" title="이정현">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F44%2F201701101102007541.jpg&type=u77_96&quality=95" width="77" height=96" alt="이정현" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=53079" title="에밀리 블런트">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F189%2F201808031504267311.jpg&type=u77_96&quality=95" width="77" height=96" alt="에밀리 블런트" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=59818" title="하정우">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201703%2F20170309160737361.jpg&type=u77_96&quality=95" width="77" height=96" alt="하정우" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=71569" title="장률">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201809%2F20180910195642746.jpg&type=u77_96&quality=95" width="77" height=96" alt="장률" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=4345" title="조승우">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F175%2F201709151023379591.jpg&type=u77_96&quality=95" width="77" height=96" alt="조승우" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=3682" title="앤 해서웨이">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F88%2F202003051222281691.jpg&type=u77_96&quality=95" width="77" height=96" alt="앤 해서웨이" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=147588" title="최유화">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201907%2F20190730102615540.jpg&type=u77_96&quality=95" width="77" height=96" alt="최유화" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=2523" title="정우성">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201812%2F20181220111450105.jpg&type=u77_96&quality=95" width="77" height=96" alt="정우성" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=80780" title="앰버 허드">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F99%2F201612231345328051.jpg&type=u77_96&quality=95" width="77" height=96" alt="앰버 허드" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=51910" title="조민준">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F55%2F201411211851597291.png&type=u77_96&quality=95" width="77" height=96" alt="조민준" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+							<li >
+								<a href="./basic.nhn?code=50936" title="임지연">
+									
+									
+									
+										
+											
+											
+										
+										
+										
+									
+									<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2Fportrait%2F201905%2F20190528103329798.jpg&type=u77_96&quality=95" width="77" height=96" alt="임지연" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96.png'" />
+								</a><!-- N=a:rnk.lpimg -->
+							</li>
+						
+						</ol>
+					</div>
+				</div>
+				<a href="#" title="열기" class="open_lst _expand-btn"><em class="blind">열기</em></a><!-- N=a:rnk.open -->
+			</div>
+		</div>
+		<!-- //상단 영화인 썸네일 리스트 -->
+        <script type="text/template" id="_TopAreaThumbnailExpander_tpl">
+            <div class="zoom_img" style="width:77px;height:96px;left:{=nLeft}px">
+                <a href="{=sUrl}">
+                    <span class="img_mask">
+                            <p>{=sTitle}</p>
+                    </span>
+                    <img src="{=sImgSrc}" alt="" />
+                </a>
+            </div>
+        </script>
+
+
+
+<!-- content -->
+<div id="content">
+	<div class="article">
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wide_info_area" style="display:none">
+	<!-- 포스터 -->
+	<div class="poster">
+		
+			
+			
+				<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgmovie.naver.net%2Fmdi%2Fpi%2F000000806%2FPM80628_101655_000.png&type=u77_96&quality=95" width="77" height="96" alt="마크 멘차카" onerror="src='https://ssl.pstatic.net/static/movie/2012/06/dft_img77x96_1.png'"/>
+			
+			
+		
+	</div>
+	<!-- //포스터 -->
+	<!-- 영화정보 -->
+	<div class="mv_info character">
+		
+		
+		<h3 class="h_movie"><a href="./basic.nhn?code=80628">마크 멘차카</a><!-- N=a:ifo.name --></h3>
+		
+		<strong class="h_movie2">
+			
+			Marc Menchaca
+			
+			
+		</strong>
+		<div class="char_info">
+			
+			
+					
+				
+				 
+				
+				
+				
+				 
+				
+				
+				
+			
+				
+				<p class="char_born">
+					1975년 10월 10일
+					
+					<em></em>
+				</p>
+				
+				
+			
+		
+			
+			
+				<p class="char_pilmo">
+					
+					
+						
+							<span><a href="/movie/bi/mi/basic.nhn?code=195409" title="아무도 없다">아무도 없다</a><!-- N=a:ifo.recent --> <em>(2020)</em></span>
+						
+					
+						
+							, <span><a href="/movie/bi/mi/basic.nhn?code=182799" title="#라이크">#라이크</a><!-- N=a:ifo.recent --> <em>(2018)</em></span>
+						
+					
+						
+							, <span><a href="/movie/bi/mi/basic.nhn?code=182832" title="에브리 타임 아이 다이">에브리 타임 아이 다이</a><!-- N=a:ifo.recent --> <em>(2017)</em></span>
+						
+					
+					<a href="/movie/bi/pi/filmo.nhn?code=80628" title="더보기" class="pf_more">더보기</a><!-- N=a:ifo.recentmore -->
+				</p>
+			
+			
+			
+			
+		</div>
+		<div class="btn_sns">
+			
+			<div class="spi_area">
+				<div id="wideSpiLayer" class="naver-splugin" data-style="standard-v1-text" data-oninitialize="people_oninitialize()"></div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+		
+			
+			
+		
+		
+		
+	
+	
+	
+	<div class="next_movie"> 
+		<a href="/movie/bi/pi/basic.nhn?code=261">다음 영화인<span></span></a> 
+        <span> 
+        	<dl> 
+            	<dt>영화인 검색순위 <strong>1위</strong></dt> 
+                <dd>크리스토퍼 놀란</dd> 
+                <dd><img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F25%2F201411101802253101.jpg&type=u48_60&quality=95" width="48" height="60" alt="크리스토퍼 놀란"></dd> 
+            </dl> 
+            <span></span>
+		</span> 
+	</div>
+	<!-- //영화정보 -->
+</div>
+
+
+<div class="mv_info_area" >
+	<!-- 영화정보 -->
+	<div class="mv_info character">
+
+		
+		<h3 class="h_movie"><a href="./basic.nhn?code=80628">마크 멘차카</a><!-- N=a:ifo.name --></h3>
+		
+		<strong class="h_movie2">
+			
+			Marc Menchaca
+			
+			
+		</strong>
+
+		
+		
+
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+		
+		
+
+		
+		
+			
+				
+				
+			
+			
+			
+		
+
+		
+		<div class="next_movie">
+			<a href="/movie/bi/pi/basic.nhn?code=261">다음 영화인<span></span></a>
+	        <span>
+	        	<dl>
+	            	<dt>영화인 검색순위 <strong>1위</strong></dt>
+	                <dd>크리스토퍼 놀란</dd>
+	                <dd><img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fssl.pstatic.net%2Fsstatic%2Fpeople%2F25%2F201411101802253101.jpg&type=u48_60&quality=95" width="48" height="60" alt="크리스토퍼 놀란"></dd>
+	            </dl>
+	            <span></span>
+			</span>
+		</div>
+
+		<dl class="info_spec">
+		
+		
+			<dt class="step5"><em>출생</em></dt>
+			<dd>
+				1975년 10월 10일
+				
+				
+			</dd>
+		
+
+		
+		
+
+		
+		
+			<dt class="step7"><em>작품</em></dt>
+			<dd>
+				
+					
+					
+						 <a href="/movie/bi/mi/basic.nhn?code=195409" title="아무도 없다">아무도 없다</a><!-- N=a:ifo.recent -->(2020)
+					
+				
+					
+					
+						,  <a href="/movie/bi/mi/basic.nhn?code=182799" title="#라이크">#라이크</a><!-- N=a:ifo.recent -->(2018)
+					
+				
+					
+					
+						,  <a href="/movie/bi/mi/basic.nhn?code=182832" title="에브리 타임 아이 다이">에브리 타임 아이 다이</a><!-- N=a:ifo.recent -->(2017)
+					
+				
+				<a href="/movie/bi/pi/filmo.nhn?code=80628" title="더보기" class="more">더보기</a><!-- N=a:ifo.recentmore -->
+			</dd>
+		
+
+		
+		
+		</dl>
+		
+		<ul class="photo_video">
+		
+		
+			
+				<li>
+					<a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=47004#tab">
+						<span class="vtr"></span>
+							<img src="https://ssl.pstatic.net/imgmovie/multimedia/MOVIECLIP/TRAILER/47004_20200821031357.jpg" width="53" height="40" alt="아무도 없다" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img50x33.png'" />
+					</a><!-- N=a:ifo.video -->
+				</li>
+			
+		
+			
+				<li>
+					<a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=46976#tab">
+						<span class="vtr"></span>
+							<img src="https://ssl.pstatic.net/imgmovie/multimedia/MOVIECLIP/TRAILER/46976_20200820095800.jpg" width="53" height="40" alt="아무도 없다" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img50x33.png'" />
+					</a><!-- N=a:ifo.video -->
+				</li>
+			
+		
+		</ul>
+		
+		<div class="btn_sns">
+			
+			<div class="spi_area "><!--[D]왼쪽 버튼이 3개 미만일 때 : sp 클래스 추가 -->
+				<div id="spiLayer" class="naver-splugin" data-style="standard-v1-text" data-oninitialize="people_oninitialize()"></div>
+			</div>
+		</div>
+
+	</div>
+	<!-- //영화정보 -->
+	
+	<!-- 포스터 -->
+	<div class="poster">
+		
+			
+			
+				<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgmovie.naver.net%2Fmdi%2Fpi%2F000000806%2FPM80628_101655_000.png&type=u120_150&quality=95" width="120" height="150" alt="마크 멘차카" onerror="src='https://ssl.pstatic.net/static/movie/2012/06/dft_img120x150.png'"/>
+			
+			
+		
+	</div>
+	<!-- //포스터 -->
+</div>
+<a name="tab" id="tab"></a>
+<div class="sub_tab_area">
+	<ul class="end_sub_tab2">
+	<li><a href="/movie/bi/pi/basic.nhn?code=80628" title="" class="tab01_on"><em>주요정보</em></a><!-- N=a:tab.main --></li>
+	
+	
+		<li><a href="/movie/bi/pi/filmo.nhn?code=80628" title="" class="tab02_off"><em>필모그래피</em></a><!-- N=a:tab.filmo --></li>
+	
+	
+	
+	
+	
+		<li><a href="/movie/bi/pi/media.nhn?code=80628" title="" class="tab04_off"><em>동영상</em></a><!-- N=a:tab.video --></li>
+	
+	
+	<li><a href="/movie/bi/pi/review.nhn?code=80628" title="" class="tab05_off"><em>영화인 리뷰</em></a><!-- N=a:tab.review --></li>
+	
+	
+	</ul>
+</div>
+
+
+
+
+
+	
+		
+			
+			
+				
+			
+		
+	 
+
+	
+		
+			
+			
+				
+			
+		
+	 
+
+	
+		
+			
+			
+				
+			
+		
+	 
+
+
+<script type="text/javascript">
+	var d = document.head ? document.head : document
+			.getElementsByTagName("head")[0];
+	var s = document.createElement("script");
+	var today = new Date();
+	var dd = today.getDate();
+	var mm = today.getMonth() + 1;
+	var yyyy = today.getFullYear();
+	if (dd < 10) {
+		dd = '0' + dd;
+	}
+	if (mm < 10) {
+		mm = '0' + mm;
+	}
+	s.src = ("https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?" + yyyy + mm + dd);
+	s.charset = "utf-8";
+	d.appendChild(s);
+
+	var htInitData = {
+		    evKey  : "movie",
+		    serviceName: "영화",
+		    title : "마크 멘차카 :: 네이버 영화",
+			url : "https://movie.naver.com/movie/bi/pi/basic.nhn?code=80628",
+		    me : {
+		        display : "off",
+		    },
+		    // [메일 보내기 버튼]
+		    mail : {
+		        display : "on",
+		        srvid : "social",
+		        srvurl : "http://movie.naver.com/movie/bi/pi/socialPlugInTemplate.nhn?code=80628"
+		    },
+		    // [블로그 보내기 버튼]
+			blog : {
+				display : "on",
+				blogId : "naver",
+				sourceType : "111",
+				sourceTitle : "[네이버 영화] 마크 멘차카",
+				sourceForm : 2
+			},
+		    // [카페 보내기 버튼]
+		    cafe : {
+		    	display : "on",
+				sourceType : "111",
+				sourceTitle : "[네이버 영화] 마크 멘차카"
+			},
+		    // [메모 보내기 버튼]
+		    memo : {
+		        display : "on" // on/off
+		    },
+		    // [일정 보내기 버튼]
+		    calendar : {
+		        display : "on" // on/off
+		    },
+		    // [북마크 버튼]
+		    bookmark : {
+		        display : "on" // on/off
+		    },
+		    // [URL복사 버튼]
+		    copyurl : {
+		        display : "on", // on/off
+		        url : "https://movie.naver.com/movie/bi/mi/basic.nhn?code="
+		    },
+		    // [트위터 보내기 버튼]
+		    twitter : {
+		        display : "on" // on/off
+		    },
+		    // [페이스북 보내기 버튼]
+		    facebook : {
+		        display : "on" // on/off
+		    },
+		    // [밴드 보내기 버튼]
+		    band : {
+		        display : "on"
+		    },
+		    // [라인 보내기 버튼]
+		    line : {
+		        display : "off"
+		    },
+		    // [카카오톡 보내기 버튼]
+		    kakaotalk : {
+		        display : "off"
+		    },
+		    // [카카오스토리 보내기 버튼]
+		    kakaostory : {
+		        display : "off"
+		    },
+		    // [감정플러그인]
+		    score : {
+		        display : "off"
+		    },
+		    option : {
+		    	baseElement: 'spiButton',
+		        layerPostion: 'outside-bottom',
+		        align: 'left',
+		        top: 4,
+		        left: 0,
+		        marginLeft: 8,
+		        marginTop: 10
+		    }
+		};
+	
+	
+    // 공식사이트 레이어
+    if("false" == "true") {
+	   new jindo.LayerManager("basicSite", {
+	        sCheckEvent : "click",
+	        nHideDelay : 0
+	    }).link(jindo.$("basicSite"), jindo.$("order"));
+	
+	    jindo.$Element("order").attach("click", function(e){
+	        e.stop(jindo.$Event.CANCEL_DEFAULT);
+	        jindo.$Element("basicSite").toggle();
+	    });
+	    
+	    jindo.$Element("siteLayerClose").attach("click", function(e){
+	        e.stop(jindo.$Event.CANCEL_DEFAULT);
+	        jindo.$Element("basicSite").hide();
+	    });
+	    
+	    new jindo.LayerManager("wideSite", {
+	        sCheckEvent : "click",
+	        nHideDelay : 0
+	    }).link(jindo.$("wideSite"), jindo.$("wideOrder"));
+	
+	    jindo.$Element("wideOrder").attach("click", function(e){
+	        e.stop(jindo.$Event.CANCEL_DEFAULT);
+	        jindo.$Element("wideSite").toggle();
+	    });
+	    jindo.$Element("wideSiteLayerClose").attach("click", function(e){
+	        e.stop(jindo.$Event.CANCEL_DEFAULT);
+	        jindo.$Element("wideSite").hide();
+	    });
+    }
+
+    window.onload = function() {
+		window.__splugin = SocialPlugIn_Core({
+	        // nEvent Key
+	        "evKey"       : "movie",
+	        // 서비스명
+	        "serviceName" : "영화"
+		});		
+	}
+		
+    function people_oninitialize() {
+    	return htInitData;
+    }
+    
+	var nsc = "movie.people";	
+</script>
+
+		
+		
+		
+		<div class="section_group section_group_frst">
+			
+			
+			
+			
+			<!-- 인물소개 -->
+			
+			<div class="obj_section">
+				<div class="profile">
+					<div class="title_area">
+						<h4 class="h_profile"><strong class="blind">인물소개</strong></h4>
+						
+							<a href="https://people.search.naver.com/search.naver?where=nexearch&query=%EB%A7%88%ED%81%AC%EB%A9%98%EC%B0%A8%EC%B9%B4&sm=tab_etc&ie=utf8&key=PeopleService&os=289984" target="_blank" title="프로필 더보기" class="pf_more"><em>인물정보 상세보기</em></a>
+						<!-- N=a:min.detail -->
+					</div>
+					
+						<table class="tbl_profile">
+						<caption>인물소개 정보</caption>
+						<thead class="blind">
+							<tr>
+							<th scope="col">항목</th>
+							<th scope="col">내용</th>
+							<th scope="col">항목</th>
+							<th scope="col">내용</th>
+							</tr>
+						</thead>
+						<tbody>
+						
+							
+								<tr>
+								<th scope="rows" class="first-sub"><img src="https://ssl.pstatic.net/static/movie/2012/06/pf_h_tx2.png" width="22" height="12" alt="신체" /></th>
+								<td class="first-sub">183cm</td>
+								<th scope="rows" class="first-sub">
+									
+								</th>
+								<td class="first-sub">
+								
+								</td>
+								</tr>
+							
+						
+							
+						
+							
+						
+						</tbody>
+						</table>
+					
+					
+					
+									
+				</div>
+			</div>
+			
+			<!-- //인물소개 -->
+			<!-- 필모그래피 -->
+			
+			<div class="obj_section">
+				<div class="pilmo">
+					<div class="title_area">
+						<a href="/movie/bi/pi/filmo.nhn?code=80628#tab">
+							<h4 class="h_pilmo"><strong class="blind">필모그래피</strong></h4>
+							<p class="count">총 <em>16</em>건</p>
+							
+								<span class="more"><span class="blind">더보기</span></span>
+							
+						</a><!-- N=a:mfi.more -->
+					</div>
+					<ul class="lst_pilmo">
+						
+						<li>
+							<p class="pilmo_thumb"><a href="/movie/bi/mi/basic.nhn?code=195409"><img src="https://movie-phinf.pstatic.net/20200901_2/1598926651745WdcSn_JPEG/movie_image.jpg?type=m133_190_2" alt="아무도 없다" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img133x190.png'"/></a><!-- N=a:mfi.img --></p>
+							<div class="pilmo_info">
+								<strong class="pilmo_tit">
+									<a href="/movie/bi/mi/basic.nhn?code=195409">아무도 없다</a><!-- N=a:mfi.title -->
+									
+									
+									
+									
+					
+									
+									
+									
+
+								</strong>
+								<div class="star_score b_star">
+									
+										
+											<span class="st_off"><span class="st_on" style="width:0.0%"></span></span><em>0.00</em>
+										
+										
+									
+								</div>
+								<p class="pilmo_genre">
+									
+										<a href="/movie/sdb/browsing/bmovie.nhn?year=2020">2020</a>
+									
+									
+										
+											<a href="/movie/sdb/browsing/bmovie.nhn?nation=US">미국</a>
+										
+									
+									<span>
+										
+											
+												<a href="/movie/sdb/browsing/bmovie.nhn?genre=7">스릴러</a>
+											
+										
+									</span>
+								</p>
+								<p class="pilmo_arr">
+
+									
+									
+										
+									
+									
+									
+									<span class="no_bg">
+										
+											<a href="/movie/sdb/browsing/bpeople.nhn?mission=201001" class="mv_people">주연</a>
+										
+									</span>
+									
+									
+									<em></em>
+									
+									
+								</p>
+								<div class="pilmo_btns">
+									
+									
+				                </div>								
+								<p class="pilmo_arr">
+								</p>								
+							</div>
+						</li>
+						
+						<li>
+							<p class="pilmo_thumb"><a href="/movie/bi/mi/basic.nhn?code=182799"><img src="https://movie-phinf.pstatic.net/20190215_38/1550194410195voUaK_JPEG/movie_image.jpg?type=m133_190_2" alt="#라이크" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img133x190.png'"/></a><!-- N=a:mfi.img --></p>
+							<div class="pilmo_info">
+								<strong class="pilmo_tit">
+									<a href="/movie/bi/mi/basic.nhn?code=182799">#라이크</a><!-- N=a:mfi.title -->
+									
+									
+									
+									
+					
+									
+									
+									
+
+								</strong>
+								<div class="star_score b_star">
+									
+										
+											<span class="st_off"><span class="st_on" style="width:0.0%"></span></span><em>0.00</em>
+										
+										
+									
+								</div>
+								<p class="pilmo_genre">
+									
+										<a href="/movie/sdb/browsing/bmovie.nhn?year=2018">2018</a>
+									
+									
+										
+											<a href="/movie/sdb/browsing/bmovie.nhn?nation=US">미국</a>
+										
+									
+									<span>
+										
+											
+												<a href="/movie/sdb/browsing/bmovie.nhn?genre=7">스릴러</a>
+											
+										
+									</span>
+								</p>
+								<p class="pilmo_arr">
+
+									
+									
+										
+									
+										
+									
+									
+									
+									<span class="no_bg">
+										
+											<a href="/movie/sdb/browsing/bpeople.nhn?mission=101434" class="mv_people">제작</a>,
+										
+											<a href="/movie/sdb/browsing/bpeople.nhn?mission=201001" class="mv_people">주연</a>
+										
+									</span>
+									
+									
+									<em></em>
+									
+									
+								</p>
+								<div class="pilmo_btns">
+									
+									
+				                </div>								
+								<p class="pilmo_arr">
+								</p>								
+							</div>
+						</li>
+						
+						<li>
+							<p class="pilmo_thumb"><a href="/movie/bi/mi/basic.nhn?code=182832"><img src="https://movie-phinf.pstatic.net/20190215_223/1550219517494OWC8f_JPEG/movie_image.jpg?type=m133_190_2" alt="에브리 타임 아이 다이" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img133x190.png'"/></a><!-- N=a:mfi.img --></p>
+							<div class="pilmo_info">
+								<strong class="pilmo_tit">
+									<a href="/movie/bi/mi/basic.nhn?code=182832">에브리 타임 아이 다이</a><!-- N=a:mfi.title -->
+									
+									
+									
+									
+					
+									
+									
+									
+
+								</strong>
+								<div class="star_score b_star">
+									
+										
+											<span class="st_off"><span class="st_on" style="width:0.0%"></span></span><em>0.00</em>
+										
+										
+									
+								</div>
+								<p class="pilmo_genre">
+									
+										<a href="/movie/sdb/browsing/bmovie.nhn?year=2017">2017</a>
+									
+									
+									<span>
+										
+									</span>
+								</p>
+								<p class="pilmo_arr">
+
+									
+									
+										
+									
+									
+									
+									<span class="no_bg">
+										
+											<a href="/movie/sdb/browsing/bpeople.nhn?mission=201001" class="mv_people">주연</a>
+										
+									</span>
+									
+									
+									<em></em>
+									
+									
+								</p>
+								<div class="pilmo_btns">
+									
+									
+				                </div>								
+								<p class="pilmo_arr">
+								</p>								
+							</div>
+						</li>
+						
+						<li>
+							<p class="pilmo_thumb"><a href="/movie/bi/mi/basic.nhn?code=169008"><img src="https://movie-phinf.pstatic.net/20170918_5/1505720781180CBdKT_JPEG/movie_image.jpg?type=m133_190_2" alt="웨이틀레스" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img133x190.png'"/></a><!-- N=a:mfi.img --></p>
+							<div class="pilmo_info">
+								<strong class="pilmo_tit">
+									<a href="/movie/bi/mi/basic.nhn?code=169008">웨이틀레스</a><!-- N=a:mfi.title -->
+									
+									
+									
+									
+					
+									
+									
+									
+
+								</strong>
+								<div class="star_score b_star">
+									
+										
+											<span class="st_off"><span class="st_on" style="width:0.0%"></span></span><em>0.00</em>
+										
+										
+									
+								</div>
+								<p class="pilmo_genre">
+									
+										<a href="/movie/sdb/browsing/bmovie.nhn?year=2017">2017</a>
+									
+									
+										
+											<a href="/movie/sdb/browsing/bmovie.nhn?nation=US">미국</a>
+										
+									
+									<span>
+										
+											
+												<a href="/movie/sdb/browsing/bmovie.nhn?genre=1">드라마</a>
+											
+										
+									</span>
+								</p>
+								<p class="pilmo_arr">
+
+									
+									
+										
+									
+									
+									
+									<span class="no_bg">
+										
+											<a href="/movie/sdb/browsing/bpeople.nhn?mission=201001" class="mv_people">주연</a>
+										
+									</span>
+									
+									
+									<em></em>
+									
+									
+								</p>
+								<div class="pilmo_btns">
+									
+									
+				                </div>								
+								<p class="pilmo_arr">
+								</p>								
+							</div>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+			
+			<!-- //필모그래피 -->
+			<!-- 포토 -->
+			
+			<!-- //포토 -->
+			<!-- 동영상 -->
+			
+				<div class="obj_section">
+					<div class="video">
+						<div class="title_area">
+							<a href="/movie/bi/pi/media.nhn?code=80628#tab">
+								<h4 class="h_video"><strong class="blind">동영상</strong></h4>
+								<span class="pg_cnt"><em>2</em>건</span>
+								
+							</a><!-- N=a:mvi.more -->
+						</div>
+						<ul class="video_thumb">
+							
+								
+								<li>
+									<a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=47004#tab" title="공포의 숲 영상" class="video_obj">
+										<span class="mask"></span>
+										<img src="https://ssl.pstatic.net/imgmovie/multimedia/MOVIECLIP/TRAILER/47004_20200821031357.jpg" width="164" height="114" alt="공포의 숲 영상" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img164x114.png'" />
+									</a><!-- N=a:mvi.img,r:1,i:47004 -->
+									<p class="tx_video ico_hd"><a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=47004#tab" title="공포의 숲 영상">공포의 숲 영상</a><!-- N=a:mvi.title,r:1,i:47004 --></p>
+								</li>
+							
+								
+								<li>
+									<a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=46976#tab" title="메인 예고편" class="video_obj">
+										<span class="mask"></span>
+										<img src="https://ssl.pstatic.net/imgmovie/multimedia/MOVIECLIP/TRAILER/46976_20200820095800.jpg" width="164" height="114" alt="메인 예고편" onerror="this.src='https://ssl.pstatic.net/static/movie/2012/06/dft_img164x114.png'" />
+									</a><!-- N=a:mvi.img,r:2,i:46976 -->
+									<p class="tx_video ico_hd"><a href="/movie/bi/pi/mediaView.nhn?code=80628&mid=46976#tab" title="메인 예고편">메인 예고편</a><!-- N=a:mvi.title,r:2,i:46976 --></p>
+								</li>
+							
+						</ul>
+					</div>
+				</div>
+			
+			<!-- //동영상 -->
+		</div>
+
+		<div class="section_group">
+			<!-- 수상정보 -->
+			<a name="award"></a>
+			
+			<!-- //수상정보 -->
+			<!-- 리뷰 -->
+			<div class="obj_section">
+				<div class="review">
+					<div class="title_area">
+						<a href="/movie/bi/pi/review.nhn?code=80628#tab">
+							<h4 class="h_review2"><strong class="blind">영화인 리뷰</strong></h4>
+							
+						</a><!-- N=a:mre.more -->
+						<div>
+							<a href="/movie/bi/pi/reviewwrite.nhn?code=80628#tab" class="wrt_review2"><em>리뷰쓰기</em></a><!-- N=a:mre.write -->
+						</div>
+					</div>
+					
+						
+						
+							<div class="no_score_info">
+								<p>이 영화인의 첫번째 리뷰를 등록해 주세요.</p>
+							</div>
+						
+					
+				</div>
+			</div>
+			<!-- //리뷰 -->
+			<!-- 명대사 -->
+			
+			<!-- //명대사 -->
+
+			
+			
+
+
+<!-- 검색어 순위 -->
+
+<div class="obj_section">
+	<div class="rank_keyword">
+		<div class="title_area">
+			<h4 class="h_rank_keyword"><strong class="blind">MOIVE RANKING</strong></h4>
+			<span class="tx_info">2020.09.02 기준</span>
+			<!-- a href="/movie/sdb/index.nhn" class="btn_more"><em class="blind">더보기</em></a -->
+		</div>
+		<div class="keyword_obj first_child">
+			<h4 class="h_kwd_mv"><a href="/movie/sdb/rank/rmovie.nhn" title="">영화 인기검색어</a><!-- N=a:key*m.title --></h4>
+			<ol>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=190010" class="top_class">
+						<em class="rank_01"><span class="blind">1위</span></em>
+						<p class="rank_tx">테넷</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=189069" >
+						<em class="rank_02"><span class="blind">2위</span></em>
+						<p class="rank_tx">다만 악에서 구하소서</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=182234" >
+						<em class="rank_03"><span class="blind">3위</span></em>
+						<p class="rank_tx">오케이 마담</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=185917" >
+						<em class="rank_04"><span class="blind">4위</span></em>
+						<p class="rank_tx">반도</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=188909" >
+						<em class="rank_05"><span class="blind">5위</span></em>
+						<p class="rank_tx">강철비2: 정상회담</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+				
+					</ol>
+					<ol>						
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=183772" >
+						<em class="rank_06"><span class="blind">6위</span></em>
+						<p class="rank_tx">극장판 짱구는 못말려: 신혼여행 허리케인~ 사라진 아빠!</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=182353" >
+						<em class="rank_07"><span class="blind">7위</span></em>
+						<p class="rank_tx">후쿠오카</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=179859" >
+						<em class="rank_08"><span class="blind">8위</span></em>
+						<p class="rank_tx">오! 문희</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+							<span class="up">상승</span>
+							<em class="num_per">6</em>
+						
+						
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=189623" >
+						<em class="rank_09"><span class="blind">9위</span></em>
+						<p class="rank_tx">남매의 여름밤</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+							<span class="down">하락</span>
+							<em class="num_per">1</em>
+						
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=167491" >
+						<em class="rank_10"><span class="blind">10위</span></em>
+						<p class="rank_tx">뮬란</p>
+					</a><!-- N=a:key*m.list -->
+					<div class="kwd_info">
+					
+						
+						
+							<span class="down">하락</span>
+							<em class="num_per">1</em>
+						
+						
+					
+					</div>
+				</li>
+			
+			</ol>
+		</div>
+		<div class="keyword_obj expand">
+			<h4 class="h_kwd_people"><a href="/movie/sdb/rank/rpeople.nhn" title="">영화인 인기검색어</a><!-- N=a:key*p.title --></h4>
+			<ol>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=261" class="top_class">
+						<em class="rank_01"><span class="blind">1위</span></em>
+						<p class="rank_tx">크리스토퍼 놀란</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=218314" >
+						<em class="rank_02"><span class="blind">2위</span></em>
+						<p class="rank_tx">채드윅 보스만</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=318463" >
+						<em class="rank_03"><span class="blind">3위</span></em>
+						<p class="rank_tx">엘리자베스 데비키</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=49023" >
+						<em class="rank_04"><span class="blind">4위</span></em>
+						<p class="rank_tx">로버트 패틴슨</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=196965" >
+						<em class="rank_05"><span class="blind">5위</span></em>
+						<p class="rank_tx">존 데이비드 워싱턴</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+				
+					</ol>
+					<ol>						
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=266169" >
+						<em class="rank_06"><span class="blind">6위</span></em>
+						<p class="rank_tx">박정민</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=334351" >
+						<em class="rank_07"><span class="blind">7위</span></em>
+						<p class="rank_tx">이레</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=424124" >
+						<em class="rank_08"><span class="blind">8위</span></em>
+						<p class="rank_tx">박소이</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=119818" >
+						<em class="rank_09"><span class="blind">9위</span></em>
+						<p class="rank_tx">유역비</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+						
+						
+							<span class="stay">보합</span>
+							<em class="num_per">0</em>					
+						
+					
+					</div>
+				</li>
+			
+							
+				<li>
+					<a href="/movie/bi/pi/basic.nhn?code=11530" >
+						<em class="rank_10"><span class="blind">10위</span></em>
+						<p class="rank_tx">황정민</p>
+					</a><!-- N=a:key*p.list -->
+					<div class="kwd_info">
+					
+						
+							<span class="up">상승</span>
+							<em class="num_per">1</em>
+						
+						
+						
+					
+					</div>
+				</li>
+			
+			</ol>
+		</div>
+		<div class="keyword_obj expand">
+			<h4 class="ticket_rsv"><a href="/movie/sdb/rank/rreserve.nhn" title="">티켓 예매순</a><!-- N=a:key*t.title --></h4>
+			<ol>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=190010" class="top_class">
+						<em class="rank_01"><span class="blind">1위</span></em>
+						<p class="rank_tx">테넷</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">59.93%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=179859" >
+						<em class="rank_02"><span class="blind">2위</span></em>
+						<p class="rank_tx">오! 문희</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">16.34%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=189069" >
+						<em class="rank_03"><span class="blind">3위</span></em>
+						<p class="rank_tx">다만 악에서 구하소서</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">11.49%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=182234" >
+						<em class="rank_04"><span class="blind">4위</span></em>
+						<p class="rank_tx">오케이 마담</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">3.43%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=183772" >
+						<em class="rank_05"><span class="blind">5위</span></em>
+						<p class="rank_tx">극장판 짱구는 못말려: 신혼여행 허리케인~ 사라진 아빠!</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">2.09%</em>
+					</div>
+				</li>
+			
+				
+					</ol>
+					<ol>						
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=195425" >
+						<em class="rank_06"><span class="blind">6위</span></em>
+						<p class="rank_tx">고스트 오브 워</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">0.85%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=80466" >
+						<em class="rank_07"><span class="blind">7위</span></em>
+						<p class="rank_tx">드라이브  </p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">0.77%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=189623" >
+						<em class="rank_08"><span class="blind">8위</span></em>
+						<p class="rank_tx">남매의 여름밤</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">0.71%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=178687" >
+						<em class="rank_09"><span class="blind">9위</span></em>
+						<p class="rank_tx">카일라스 가는 길</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">0.53%</em>
+					</div>
+				</li>
+			
+				
+				<li>
+					<a href="/movie/bi/mi/basic.nhn?code=182353" >
+						<em class="rank_10"><span class="blind">10위</span></em>
+						<p class="rank_tx">후쿠오카</p>
+					</a><!-- N=a:key*t.list -->
+					<div class="kwd_info">
+						<em class="rsv_per">0.40%</em>
+					</div>
+				</li>
+			
+			</ol>
+		</div>
+	</div>
+</div>
+<!-- //검색어 순위 -->
+
+			
+<p class="db_bottom">영화정보의 수정이나 신규생성이 필요한 경우 고객센터 DB제보로 문의해주세요.<a href="https://help.naver.com/support/alias/contents2/movie/movie_1.naver" target="_blank" class="qna">고객센터 DB제보 문의하기</a><!-- N=a:btm.dbr --></p>
+<p class="mod_nanum"><span class="ic_warning"></span>본 페이지는 나눔글꼴에 최적화 되어있습니다.<a href="http://hangeul.naver.com/font" target="_blank">나눔글꼴설치</a></p>
+
+		</div>
+	</div>
+	
+<div class="staticbanner" id="floatingTopAnchor" style="bottom:40px">
+    <a href="#u_skip" title="맨위로"><img alt="맨위로" src="https://ssl.pstatic.net/static/movie/2012/08/btn_top.png" width="33" height="35"></a><!-- N=a:btm.top -->
+</div>
+<script type="text/javascript">
+jindo.$Fn(function () {
+    var welTopAnchor = jindo.$Element('floatingTopAnchor');
+    var welContent = jindo.$Element('content');
+    var nTopMargin = 342 + welTopAnchor.height();
+    var nMaxY;
+    var nMinY = 61;
+    var oFloatingLayer = new jindo.FloatingLayer(welTopAnchor).attach({
+        beforeMove: function (oEvent) {
+            // 상단 limit
+            nMaxY = welContent.height() - nTopMargin;
+            if (oEvent.nY > nMaxY) {
+                oEvent.nY = nMaxY;
+            }
+
+             // 하단 limit
+            if (oEvent.nY < nMinY) {
+                oEvent.nY = nMinY;
+            }
+        }
+    });
+}).attach(window, 'load');
+</script>
+</div>
+<!-- //content -->
+
+<script type="text/javascript">
+basic = {
+		
+		init : function() {
+			
+			if(jindo.$("peopleInfoButton") != null) {
+				jindo.$Fn(function() {basic.peopleInfoToggle();}).attach(jindo.$("peopleInfoButton"), "click");
+			}
+			
+		},
+		
+		peopleInfoToggle : function() {
+			jindo.$Element(jindo.$("peopleInfoButton")).toggleClass("more_resize");
+			jindo.$Element(jindo.$$.getSingle(".pf_intro")).toggleClass("height100");
+		},
+		
+		toggleLayer : function(id) {
+			jindo.$Element(id).toggle();
+		}
+		
+};
+
+jindo.$Fn(function (we) {
+	if (jindo.$Element("prizeMore") != null) {
+        jindo.$Fn(function() {
+			// toggle(), show(), hide() has IE7 bug
+        	if (jindo.$Element("prizeMore").className() == "more") {
+        		if (jindo.$Agent().navigator().ie && jindo.$Agent().navigator().version == "7") {
+            		jindo.$ElementList("._prizeHidden").attr("style", "display:block");
+        		} else {
+            		jindo.$ElementList("._prizeHidden").show();
+        		}        		
+    	    	jindo.$Element("prizeMore").className("more_resize");
+        	} else {
+        		if (jindo.$Agent().navigator().ie && jindo.$Agent().navigator().version == "7") {
+            		jindo.$ElementList("._prizeHidden").attr("style", "display:none");
+        		} else {
+            		jindo.$ElementList("._prizeHidden").hide();
+        		}
+        		jindo.$Element("prizeMore").className("more");       		
+        	}
+        }).attach(jindo.$("prizeMore"), "click");
+	}
+}).attach(document, 'domready');
+	
+jindo.$Fn(function() {basic.init();}).attach(document, "domready");
+	
+</script>
+	</div>
+	<!-- //container -->
+	
+	<!-- footer -->
+	
+
+
+
+<div id="footer">
+	<div class="in_footer">
+		<div class="foot_con">
+				<ul>
+					<li class="first"><a href="http://www.naver.com/rules/service.html" target="_blank">이용약관</a><!-- N=a:fot.agreement --></li>
+					<li><a href="http://www.naver.com/rules/privacy.html" target="_blank"><strong>개인정보처리방침</strong></a><!-- N=a:fot.privacy --></li>
+					<li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank">책임의 한계와 법적고지</a><!-- N=a:fot.disclaimer --></li>
+					<li><a href="https://help.naver.com/support/service/main.nhn?serviceNo=800" target="_blank">영화 고객센터</a><!-- N=a:fot.help --></li>
+				</ul>
+				<p class="info">본 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.</p>
+				<p class="info">
+					사업자등록번호 : 220-81-62517<span>통신판매업 신고번호</span> : 경기성남 제 2006 - 692호<span>대표이사 : 한성숙</span><span><a href="http://www.ftc.go.kr/info/bizinfo/communicationList.jsp">사업자등록정보 확인</a><!-- N=a:fot.bizinfo --></span><br>
+					주소 : 경기도 성남시 분당구 불정로 6 네이버 그린팩토리 <span>대표전화 : 1588-3820</span>
+				</p> 
+				<address>
+					<a href="http://www.navercorp.com/" target="_blank" class="logo"><img src="https://ssl.pstatic.net/static/movie/2013/07/logo_naver.png" width="63" height="11" alt="NAVER"></a><!-- N=a:fot.nhn -->
+					<em>Copyright ©</em>
+					<a href="http://www.navercorp.com/" target="_blank">NAVER Corp.</a><!-- N=a:fot.corp -->
+					<span>All Rights Reserved.</span>
+				</address>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+if (false) {
+	var alertType = "NONE";
+	var koreanTitle = "";
+	var movieCode = "0";
+	var userReserveCount = "0";
+	var todayDatetime = "20200903162205";
+	var endDatetimeAfterTwoDays = "00000000000000";
+	
+	
+	if (movieCode > 0) {
+		openWriteActualPointAlert (alertType, koreanTitle, movieCode, userReserveCount, todayDatetime, endDatetimeAfterTwoDays);
+	}
+}
+
+function openWriteActualPointAlert (alertType, koreanTitle, movieCode, count, today, endDate) {
+	if (alertType == "ONE") {
+		setCookieLastUserReserveDate(today, endDate);
+		if (confirm("관람하신 " + koreanTitle + "에\n평점 등록 시 네이버페이 포인트 500원 적립!\n지금 평점쓰기 메뉴로 이동하시겠습니까?")) {
+			top.location.href = "https://movie.naver.com/movie/bi/mi/point.nhn?code=" + movieCode;
+		}
+	} else if (alertType == "MORE") {
+		setCookieLastUserReserveDate(today, endDate);
+		if (confirm("관람하신 작품에 평점을 등록해주세요\n작품당 네이버페이 포인트 500원씩 적립!\n평점 미등록작 리스트를 확인하시겠습니까?")) {
+			top.location.href = "http://ticket.movie.naver.com/Order/OverdueList.aspx";
+		}
+	}
+}
+
+function setCookieLastUserReserveDate(today, endDate) {
+	var cookieForNotOpenActualPointPopup = jindo.$Cookie();
+	
+	
+	cookieForNotOpenActualPointPopup.remove("lastUserReserveDatetime");
+	cookieForNotOpenActualPointPopup.remove("lastUserReserveCheckDatetime");
+	
+	cookieForNotOpenActualPointPopup.set("lastUserReserveDatetime", endDate, 9999, "movie.naver.com");
+	cookieForNotOpenActualPointPopup.set("lastUserReserveCheckDatetime", today, 9999, "movie.naver.com");
+}
+
+</script>
+
+
+
+
+
+
+
+	<!-- //footer -->
+</div>
+<script type="text/javascript">
+var isRecentTab = false;
+
+jindo.$Fn(function (we) {
+	
+	    // 윈도우창 리사이징에 따른 레이아웃 1/2단 관리
+	    var oViewMode = new nhn.movie.end.ViewMode();
+	
+
+	// 상단 검색영역
+	var oSearch = new nhn.movie.Search({
+		area : "jSearchArea",
+		autosearch : "https://auto-movie.naver.com/ac?q_enc=UTF-8&st=1&r_lt=1&n_ext=1&t_koreng=1&r_format=json&r_enc=UTF-8&r_unicode=0&r_escape=1&q=",
+		movelink : "/movie/bi/mi/basic.nhn?code=",
+		peoplelink : "/movie/bi/pi/basic.nhn?code="
+	});
+
+    // 좌측 LNB
+    var oLNB = new nhn.movie.LNB();
+	if( typeof oViewMode != "undefined") {
+		oViewMode.attach('change', jindo.$Fn(oLNB.update, oLNB).bind());
+	}
+
+    // 2단일때, 2열에 상단 회색 라인 없애기
+	if( typeof oViewMode != "undefined") {
+	    oViewMode.attach('change', function (oEvent) {
+	        var welSecondSectionGroup = jindo.$Element('content').queryAll('.section_group')[1];
+	        var wel2column1rowSection;
+	
+	        if (welSecondSectionGroup) {
+	            wel2column1rowSection = welSecondSectionGroup.query('.obj_section');
+	
+	            if (oEvent.sStyle == 'wide') {
+	                wel2column1rowSection.addClass('noline');
+	            } else {
+	                wel2column1rowSection.removeClass('noline');
+	            }
+	        }
+	
+		    //포토 묻어가기
+		    if( typeof oPhoto != "undefined" ){
+			    if (oEvent.sStyle == 'wide') {
+				    oPhoto.setWide("wide");
+			    } else {
+				    oPhoto.setWide("basic");
+			    }
+		    }
+		    // 비디오 묻어가기
+		    if( typeof oMovie != "undefined" ){
+			    if (oEvent.sStyle == 'wide') {
+				    oMovie.setWide("wide", 1);
+			    } else {
+				    oMovie.setWide("basic", 1);
+			    }
+		    }
+	
+	    });
+	}
+
+    // 상단썸네일영역
+    
+    
+    
+    
+		var welTopArea = jindo.$Element('_TopArea');
+		new nhn.movie.end.TopAreaThumbnailExpander(welTopArea.query('.people_list .top_poster_area')).attach({
+		    click: function (oEvent) {
+		        clickcr(oEvent.element, 'rnk.pimg', '', '', event);
+		    }
+		});
+		var oTopAreaManager = new nhn.movie.end.people.TopAreaManager(welTopArea);
+		if ( typeof oViewMode == "undefined" || oViewMode.is('basic') ) {
+		    oTopAreaManager.showFirstDefaultItems();
+		    oTopAreaManager.enableNavigationBtns();
+		} else {
+		    oTopAreaManager.showFullDefaultItems();
+		    oTopAreaManager.disableNavigationBtns();
+		}
+		if( typeof oViewMode != "undefined") {
+			oViewMode.attach('change', jindo.$Fn(oTopAreaManager.onViewModeChange, oTopAreaManager).bind());
+		}
+    
+	
+    var waelScriptOrderList = jindo.$ElementList('._gnb_another_service_layer');
+    
+    jindo.$A(waelScriptOrderList.$value()).forEach(function(value, index, array) {
+		jindo.$Fn(reviewOrderLayerToggle, this).attach(value, "blur");
+	});
+    //자동닫힘 기능 끝.
+    
+  //영화검색 결과에서 포커스 아웃될 경우, 검색 결과를 지우도록 변경.
+    jindo.$Element("lnb_gonaver").attach("focus",function(e){
+    	
+    	jindo.$Element('search_placeholder').attr({
+    		"style" : "display: inline;"
+    	})
+    	jindo.$Element('ipt_tx_srch').$value().value="";
+    	
+    	if(jindo.$Element("jAutoComplate") != null){
+    		jindo.$Element("jAutoComplate").hide();
+    	}
+    });    
+
+    
+
+	
+    /**
+     * 영화인 END 페이지
+     */
+
+    var welMovieInfoWideArea = jindo.$Element(jindo.$$.getSingle('.wide_info_area'));
+    var welMovieInfoBasicArea = jindo.$Element(jindo.$$.getSingle('.mv_info_area'));
+    if ( oViewMode.is('basic') ) {
+        welMovieInfoWideArea.hide();
+        welMovieInfoBasicArea.show();
+    } else {
+        welMovieInfoBasicArea.hide();
+        welMovieInfoWideArea.show();
+    }
+    oViewMode.attach('change', function (oEvent) {
+        // 기본정보 영역 변경
+        if ( oEvent.sStyle === 'basic' ) {
+            welMovieInfoWideArea.hide();
+            welMovieInfoBasicArea.show();
+        } else {
+            welMovieInfoBasicArea.hide();
+            welMovieInfoWideArea.show();
+        }
+    });
+
+    
+        
+        /* 주요정보 탭 */
+
+        // 포토영역
+        new nhn.movie.end.MainPhotoArea(
+            jindo.$('_MainPhotoArea'), // Element
+            '/movie/bi/pi/photoListJson.nhn?peopleCode=80628', // List API URL
+            {
+                "lists":[
+                    
+                ]
+            } // First List Object
+        ).attach('updated', function (oEvent) {
+            var sRnd = (new Date()).getTime();
+            var sb = [];
+
+            var _displayNIndex = eval(oEvent.nIndex) + 1;
+            
+            // 현재 포토 위치
+            jindo.$Element('mainPhotoViewIndex').text(_displayNIndex);
+
+            // 포토 조회수
+            new jindo.$Ajax('/movie/bi/pi/photoViewCount.nhn?nid=' + oEvent.nid, {
+                method : 'get',
+                onload : function(res){}
+            }).request();
+
+            // NDS
+            try {
+                lcs_do();
+            } catch(e){}
+
+            // 코리안클릭 PV집계
+			sb.push('<iframe height="0" frameborder="0" width="0" scrolling="no" src="');
+			sb.push('/movie/bi/mi/photoViewCountDummy.nhn?_timestamp=' + sRnd);
+			sb.push('"></iframe>');
+			var sHtml = sb.join("");
+			var elContent = jindo.$Element("footer");
+			elContent.appendHTML(sHtml);
+        });
+
+        
+        
+        
+        
+        
+        
+        
+    
+	
+}).attach(document, 'domready');
+/**
+ * 기타 공통
+ */
+jindo.$Fn(function() {
+    try{ lcs_do(); } catch(e){}
+}).attach(window, "pageshow");
+</script>
+<script type="text/javascript">
+	//nClick 초기화 영역
+	//클릭로그 집계 코드 추가
+	var ccsrv="cc.naver.com";
+	var nclk_evt = 1;
+	
+	nclk_do();
+	//nClick 초기화 영역 끝
+</script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+#body_section div {
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+}
+
+#wrapper>div {
+    width: 100%;
+}
+
+#main {
+    height: 70%;
+    background: gray;
+    text-align: center;
+}
+
+#logo {
+    position: relative;
+    top: 55px;
+}
+
+#body_section {
+    height: 1000px;
+}
+
+#manager_page {
+    height: 10%;
+    background: white;
+    text-align: center;
+    border-left-color: white;
+    border-right-color: white;
+
+}
+
+#content_section {
+    height: 90%;
+}
+
+#manager_menu {
+    width: 20%;
+    height: 100%;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+
+
+}
+
+#list {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+#graph,
+#mag_section {
+    height: 50%;
+    text-align: center;
+}
+
+#movie_mag,
+#re_QnA_mag {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#review_mag,
+#QnA_mag {
+    height: 50%;
+}

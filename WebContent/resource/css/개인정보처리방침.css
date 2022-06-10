@@ -1,0 +1,103 @@
+
+
+
+line-height: 0px;
+div{border:  1px solid black; margin: auto; text-align: center;}
+
+
+#header{width: 1000px; margin: auto; text-align: center;}
+
+#wrapper{width: 1000px; height: 130px; margin: auto; text-align: center;}
+
+#hee{  margin: auto; text-align: center;    margin-top: -2px;}
+
+#area7 { border: 0;  position: relative ;   margin-top: -3px;}
+
+#area1{ margin: auto; text-align: center;}                                
+
+#body{text-align: left;}
+
+#area{ margin: auto;  }
+
+#area5 { width: 1000px; height: 100px; border: 0;}
+
+#nav {
+    height: 50%;
+    background: white;
+    text-align: center;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid gray;
+}
+
+#nav_section {
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+    border: 0;
+}
+
+#nav_gnb {
+    list-style-type: none;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    margin: auto;
+    border: 1px solid black;
+    border: 0;
+}
+
+#nav_gnb>li {
+    float: left;
+    width: 15%;
+    height: 100%;
+    text-align: center;
+    margin-top: 32px;
+}
+
+#nav_gnb>li>ul>li {
+
+    float: left;
+}
+
+#nav_gnb li a {
+    position: relative;
+    left: 280px;
+    text-decoration: none;
+    display: block;
+    line-height: 0px;
+    color: black;
+    font-size: 16px;
+
+}
+
+#nav_gnb li a:hover {
+    color: #9277c4;
+
+
+}
+
+#nav_gnb li>ul {
+    list-style-type: none;
+    padding: 0;
+    display: none;
+    width: 300px;
+
+
+}
+
+#nav_gnb li>a:hover+ul {
+    display: block;
+}
+
+#nav_gnb li ul:hover {
+    display: block;
+
+}
+
+#nav_gnb>li>ul>li>a {
+    position: relative;
+    top: -10px;
+    font-size: 15px;
+    padding: 15px;
+}

@@ -1,0 +1,38 @@
+#footer {
+    height: 100px;
+    background: #121a3e;
+    padding: 12px 0;
+    min-width: 1000px;
+    position: relative;
+    bottom: -250px;
+
+  }
+
+  #footer .footer_wrap {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  #footer .footer_wrap img {
+    float: left;
+    margin-right: 80px;
+  }
+
+  #footer .footer_wrap ul a {
+    font-size: 12px;
+    color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: -20px;
+    right: -18%;
+  }
+
+  #footer .footer_wrap ul li {
+    font-size: 12px;
+    color: #f1f1f1;
+    text-align: center;
+    position: relative;
+    bottom: -20px;
+    right: 7%;
+  }

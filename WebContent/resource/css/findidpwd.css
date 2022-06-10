@@ -1,0 +1,187 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    box-sizing: border-box;
+}
+#wrapper {
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+
+#main {
+    position: relative;
+    font-size: 28px;
+    margin: auto;
+    text-align: center;
+    color : #505984;
+}
+
+#main2 {
+    font-size: 28px;
+    /* margin-left: 400px; */
+    margin: auto;
+    color : #505984;
+}
+
+#username {
+    font-size: 13px;
+    margin-left: 180px;
+}
+
+#userid {
+    font-size: 13px;
+    margin-left: 180px;
+}
+
+#nametext {
+    font-size: 13px;
+
+}
+
+#useremail {
+    font-size: 13px;
+    margin-left: 180px;
+}
+
+#emailtext1 {
+    font-size: 13px;
+}
+
+#q {
+    font-size: 13px;
+}
+
+#emailtext2 {
+    font-size: 13px;
+}
+
+#in_1,
+#in_2 {
+    background: none;
+    color: white;
+    background:#7090cb ;
+    border: 2px solid #7090cb;
+}
+
+#idc,#pwc {
+    /* margin-left: 450px; */
+    margin-left: 0px;
+    margin-top: 1px;
+    width: 180px;
+    height: 55px;
+    background: none;
+    border: none;
+    background: #505984;
+    color: white;
+    font-size: 14px;
+    width: 7000;
+    font-size: 18px;
+    
+}
+
+
+
+
+#row {
+    width: 150px;
+    text-align: left;
+    height: 50px;
+    background: none;
+    border: 2px solid none;
+}
+
+#column {
+    width: 850px;
+    text-align: left;
+    height: 50px;
+    margin-left: 10px;
+    border: 2px solid none;
+    padding-left: 5%;
+}
+
+#maintable {
+    text-align: center;
+    border: none;
+    width: 80%;
+    margin: auto;
+}
+
+#content {
+    margin: auto;
+    text-align: center;
+
+}
+
+input,select {
+    border-radius: none;
+    border: 2px solid #a9a8a6 ;
+    outline: none;
+}
+#text{
+    color: #505984;
+    font-size: 15pt;
+    font: bold;
+}
+
+
+.info_text {
+    text-align: left;
+    color: #666;
+    margin-left: 8%;
+    font-size: 14px;
+}
+
+#content-1, #content-2 {
+    margin: auto;
+    width: 950px;
+    height: 460px;
+    /* margin: 50px; */
+    border: 1px solid #666;
+}
+
+#content-3 {
+
+    margin : auto;
+    width: 950px;
+    height: 120px;
+    border: 1px solid #666;
+    text-align: left;
+    padding-left: 50px;
+    background: #f3f3f3;
+}
+
+input[type='text']:focus {
+   
+    outline: none;
+    border-radius: 0px;
+    border: 2px solid  #7090cb;
+   
+}
+
+input[type='text']:focus::placeholder{
+    color:white
+}
+
+input[type='button']:hover {
+    cursor: pointer;
+}
+
+dd {
+    margin-left: 100px;
+    padding-left: 25px;
+    color: #666;
+}
+
+dl{
+    padding: 20px;
+}
+
+dt {
+    width: 70px;
+    float: left;
+    color: #666;
+
+}

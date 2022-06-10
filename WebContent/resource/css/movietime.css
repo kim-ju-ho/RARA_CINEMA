@@ -1,0 +1,108 @@
+#body{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+select{
+    height: 45px;
+    width: 135px;
+    font-size: 100%;
+    font-weight: 900;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+}
+
+select, button {
+ border-radius: 0px;
+}
+
+.scroll-wrap {overflow-x:scroll;width:100%; line-height: 50%;}
+
+#body ul {display:table;width:100%;}
+#body li {display:table-cell;white-space:nowrap;list-style:none;}
+
+.menu-area button {
+    width: 100px;
+    height: 60px;
+    background-color: white; 
+    color: #3045a1; 
+    border: 0px;
+    text-align: center;
+    font-size: 16px;
+    margin: 2px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.menu-area button:hover { 
+    border: 2px solid #121a3e;
+}
+
+.screens button{
+    background-color: #7090cb;
+    color: white;
+    border: 2px solid white;
+    width: 110px;
+    height: 60px;
+    text-align: center;
+    font-size: 13px;
+    padding: 10px 32px;
+    /* line-height: 50%; */
+    cursor: pointer;
+
+}
+
+
+button:focus,
+input:focus,
+select:focus
+ {
+outline: none;
+}
+
+
+#notice {
+    text-align: center;
+    margin: auto;
+    color: gray;
+    margin-left: 35%;
+
+}
+
+button>label {
+   color: rgb(90, 90, 90);
+   font-size: 13px;
+   line-height: initial;
+   margin-left: 2%;
+}
+
+button:hover>label {
+   color: rgb(119, 119, 119);
+   font-size: 13px;
+}
+
+#day_notice {
+   font-size: 12px;
+}
+
+#day_notice>p {
+   font-size: 20px;
+   color: #3045a1; 
+   font-weight: bolder;
+   margin-left: 25%;
+   font-style: italic;
+}
+
+div h5 {
+   color:grey;
+   margin: 0%;
+   margin-bottom: 20px;
+}
+
+.screens h4 {
+   margin: 5px;
+   margin-top: 15px;
+  
+}
